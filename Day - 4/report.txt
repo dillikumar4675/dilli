@@ -1,0 +1,13 @@
+report on smart tech product
+
+* clustered column chart (product by state)
+
+*pie chart (count of product by payment type)
+
+*line chart (count of payment type by product)
+
+*donut chart (sum of sale by sales channels )
+
+* filled map (state)
+
+*tree map (count of product by state )
